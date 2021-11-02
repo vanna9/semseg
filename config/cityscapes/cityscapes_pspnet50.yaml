@@ -55,5 +55,5 @@ TEST:
   test_gpu: [0]
   model_path: /content/gdrive/MyDrive/cityscapes_dataset/resnet50_v2.pth  # evaluation model path
   save_folder: /content/gdrive/MyDrive/cityscapes_dataset/ss  # results save folder
-  colors_path: /content/gdrive/MyDrive/cityscapes_dataset/cityscapes_colors.txt  # path of dataset colors
-  names_path: /content/gdrive/MyDrive/cityscapes_dataset/cityscapes_names.txt  # path of dataset category names
+  colors_path: /content/semseg/data/cityscapes/cityscapes_colors.txt  # path of dataset colors
+  names_path: /content/semseg/data/cityscapes/cityscapes_names.txt  # path of dataset category names
